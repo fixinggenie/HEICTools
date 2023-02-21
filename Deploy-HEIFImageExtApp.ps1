@@ -65,7 +65,7 @@ Try {
     ##* VARIABLE DECLARATION
     ##*===============================================
     ## Variables: Application
-    [string]$appVendor = '‪‬'
+    [string]$appVendor = ''
     [string]$appName = 'HEIF Image Extensions Microsoft Store App'
     [string]$appVersion = ''
     [string]$appArch = ''
@@ -77,7 +77,7 @@ Try {
     ##*===============================================
     ## Variables: Install Titles (Only set here to override defaults set by the toolkit)
     [string]$installName = ''
-    [string]$installTitle = '‪HEIF Image Extensions Microsoft Store App'
+    [string]$installTitle = 'HEIF Image Extensions Microsoft Store App'
 
     ##* Do not modify section below
     #region DoNotModify
